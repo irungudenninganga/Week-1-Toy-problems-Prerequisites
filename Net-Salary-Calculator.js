@@ -4,7 +4,7 @@ const basicSalary=prompt('Enter your basic salary :');
 
 
 
-function netSalaryCaculator(){
-
+function netSalaryCaculator(basicSalary){
+    
 }
 netSalaryCaculator(basicSalary)
