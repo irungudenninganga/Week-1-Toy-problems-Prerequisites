@@ -23,7 +23,7 @@ The top problem prerequisities is a problem solver since :
 * [How to write a good README](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
 * [Support from]()
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 #### How the project works 
 
 1 For the Student grade generator you need to open it with a [text editor](https://code.visualstudio.com/docs) where you will find the first folder 
