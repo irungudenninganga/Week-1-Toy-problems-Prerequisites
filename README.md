@@ -110,7 +110,7 @@ Follow the instruction above to use and modify the project
 
 ## Author
 
-  * [@irungudennis](https://github.com/irungudenninganga)
+  * [irungudennis](irungud220@gmail.com)
 
 ## License 
 MIT License
