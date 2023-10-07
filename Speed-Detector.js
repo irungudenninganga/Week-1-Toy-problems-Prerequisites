@@ -5,10 +5,10 @@ const speedOfCar= prompt('Enter speed :');
 // this function 'speedDetecto()' takes speedOfCar as an argument and pass it to the if  else statment to be compared to either return 'ok' or the 'extraspeed'
 function speedDetector(speedOfCar){
     if (speedOfCar<=70){
-        return 'OK'
+        return  'Result :' + 'OK'
      }  else if(speedOfCar>=70  ){
         let extraSpeed=speedOfCar-70
-        return extraSpeed
+        return  extraSpeed
      }
      
 }
@@ -49,7 +49,8 @@ function pointsCounter(){
      } else if (countPoints>=65 ){
         return  'License suspended'
      }
+     return points
      
 }
 // invocing poimtsCounter()
-console.log(pointsCounter())
+console.log( 'points :' +pointsCounter())
