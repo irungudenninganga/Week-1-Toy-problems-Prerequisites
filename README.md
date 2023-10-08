@@ -21,7 +21,7 @@ The top problem prerequisities is a problem solver since :
 ### Acknowledgements
 
 * [How to write a good README](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-* [Support from]()
+* [How to organise your README](https://readme.so/editor)
 
 
 #### How the project works 
@@ -110,7 +110,7 @@ Follow the instruction above to use and modify the project
 
 ## Author
 
-  * [irungudennis](irungud220@gmail.com)
+  * [irungudennis](https://github.com/irungudenninganga)
 
 ## License 
 MIT License
